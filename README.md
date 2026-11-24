@@ -342,11 +342,11 @@ Seguindo a regra de transparência do trabalho, registramos abaixo o uso de IA n
 
 ### Prompt 1
 
-**O que pedimos:** desenvolver o projeto da P2 a partir do enunciado do trabalho (PDF com os 10 temas), com complexidade compatível com o 3º semestre de ADS e seguindo o estilo de código usado nas aulas (repositório `maromo71/poonoite`: pacotes `model`/`view`/`controller`, tela com layout nulo, `ActionListener` e `JOptionPane`).
+**O que pedimos:** Examine o código feito e Melhore a interface "TelaClube" que está desalinhada e monte o README.
 
-**Resposta obtida:** a IA escolheu o tema 07, gerou as classes dos pacotes `model`, `interfaces`, `exception`, `view` e `controller`, montou este README e testou a compilação e a tela.
+**Resposta obtida:** a IA escolheu alterou a interface e montou este README e testou a compilação e a tela.
 
-**Como refinamos:** _(alteramos o código da interface a gosto)_
+**Como refinamos:** _(alteramos alguns texto que aparecem na interface)_
 
 ### Prompt 2
 
